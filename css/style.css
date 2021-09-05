@@ -21,14 +21,14 @@ body {
 #div3 {
   display: block;
   width: 90%;
-  max-width: 950px;
+  max-width: 592px;
   margin: 0.7rem auto;
   text-align: center;
   height: 75%;
   /* background-color: rgb(82, 65, 187);; */
   color: rgb(82, 65, 187);
   font-size: calc(12px + 0.6vw);
-  overflow: visible;
+  overflow: scroll;
 }
 
 img {
